@@ -1,0 +1,3 @@
+HTTPS : https://github.com/sandipanp/Telecom-Churn-case-study.git
+SSH : git@github.com:sandipanp/Telecom-Churn-case-study.git
+Github CLI : gh repo clone sandipanp/Telecom-Churn-case-study
